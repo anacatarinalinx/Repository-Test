@@ -1,0 +1,22 @@
+Criar um passo a passo de como criar um branch num servidor git remoto.
+
+1 - Acessar o terminal git
+
+2 - clonar o repositório remoto no dispositivo local (git clone <url do repositorio remoto>
+
+3 - acessar o repositório (cd NomeRepositorio)
+
+4 - criar a branch da modificação dizendo o nome da branch (git checkout -b NomeDoBranch)
+
+5 - realizar as modificações 
+
+6 - verificar as modificações (git status)
+
+7 - adicionar os arquivos modificados (git add NomeDoArquivo.tipoArquivo)
+
+8 - salvar as modificações (git commit -m "comentário qualquer")
+
+9 - envia as modificações para o Repositório remoto (git push)
+
+kffdkfk
+
